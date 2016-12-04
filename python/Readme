@@ -1,0 +1,6 @@
+Read Me First -by Rui
+1. hiddenMarkov.py 	the python contains naive Viterbi algorithm 
+2. sample_parameters.dat	the probability matrix 
+3. sample_parameters_pus.dat	the probability with additional state
+4. sample_parameters_minus.dat	the probability with modification to reduce state
+5. running			the running time comparison script
